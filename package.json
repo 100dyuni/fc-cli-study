@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "commander": "^9.0.0"
+    "commander": "^9.0.0",
+    "dotenv": "^16.0.0",
+    "octokit": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
   }
 }
